@@ -2,7 +2,7 @@ public class Guitar implements Playable{
     @Override
     public void play()
     {
-        System.out.println("do pam pam pam");
+        System.out.println("do glam glam");
     }
 
     public void strings()
